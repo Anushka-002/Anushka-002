@@ -2,7 +2,9 @@
 
 I'm **Anushka**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24\&center=true\&vCenter=true\&width=700\&lines=Hard+Work+%3E%3E+Smart+Work✨✨;Problem+Solver;🍨Ice+Cream+Makes+Every+Day+Better;Great+things+are+built+with+patience+and+time)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24\&center=true\&vCenter=true\&width=700\&lines=Hard+Work+%3E%3E+Smart+Work✨✨;Problem+Solver;🍨Ice+Cream+Makes+Every+Day+Better;)](https://git.io/typing-svg)
 
 ---
 
