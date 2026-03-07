@@ -28,7 +28,7 @@ I love working on innovative projects and exploring new ideas.
 
 ## 💻 My Skill Set
 
-![My Skills](https://skillicons.dev/icons?i=cpp,python,git,linux,aws,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=cpp,python,git,aws,html,css,js,mysql)
 
 ---
 
@@ -41,6 +41,7 @@ Python
 HTML
 CSS
 JavaScript
+machine learning, deep learning, cv, LLm
 
 ---
 
@@ -48,6 +49,9 @@ JavaScript
 
 Git
 GitHub
+vscode
+google colab
+jira
 
 ---
 
