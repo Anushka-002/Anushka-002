@@ -36,30 +36,30 @@ I love working on innovative projects and exploring new ideas.
 
 ### Programming
 
-C++
-Python
-HTML
-CSS
-JavaScript
-machine learning, deep learning, cv, LLm
+> C++
+> Python
+> HTML
+> CSS
+> JavaScript
+> machine learning, deep learning, cv, LLm
 
 ---
 
 ### Tools
 
-Git
-GitHub
-vscode
-google colab
-jira
+> Git
+> GitHub
+> vscode
+> google colab
+> jira
 
 ---
 
 ### Concepts
 
-Data Structures & Algorithms
-Problem Solving
-Algorithmic Thinking
+> Data Structures & Algorithms
+> Problem Solving
+> Algorithmic Thinking
 
 ---
 
