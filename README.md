@@ -13,8 +13,8 @@ Myself **Anushka**
 I love working on innovative projects and exploring new ideas.
 
 * I enjoy solving puzzles and challenging problems
-* Interested in AI, research, and building smart systems
-* Always exploring new technologies
+* Interested in exploring different tech stacks(specifically fullstack & Ai Ml)
+* Always exploring new technologies and looking for new innovations
 
 ---
 
@@ -60,6 +60,7 @@ I love working on innovative projects and exploring new ideas.
 > Data Structures & Algorithms
 > Problem Solving
 > Algorithmic Thinking
+> Innovative ideas
 
 ---
 
