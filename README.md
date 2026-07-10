@@ -35,33 +35,45 @@ I love working on innovative projects and exploring new ideas.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### Programming
+Programming Languages
+• Python
+• C++
+• JavaScript
+• HTML
+• CSS
 
-> C++
-> Python
-> HTML
-> CSS
-> JavaScript / react
-> machine learning
-> deep learning
-> Computer vision
-> Natural language processing ( nlp)
-> LLM
-> Generative ai
-> Agentic ai
+Software Engineering
+• Data Structures & Algorithms
+• Object-Oriented Programming (OOP)
+• REST APIs
+• Git
+• GitHub
+• Agile Development
 
----
+AI & Machine Learning
+• Machine Learning
+• Deep Learning
+• Computer Vision
+• Natural Language Processing (NLP)
+• Large Language Models (LLMs)
+• Generative AI
+• Agentic AI
 
-### Tools
+Frameworks & Libraries
+• React
+• TensorFlow
+• OpenCV
+• Scikit-learn
+• Pandas
+• NumPy
 
-> Git
-> GitHub
-> vscode
-> Google Colab
-> jira
-> Kaggle
+Developer Tools
+• VS Code
+• Google Colab
+• Kaggle
+• Jira
 
 ---
 
