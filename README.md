@@ -10,6 +10,8 @@ Myself **Anushka**
 
 ✨ **About Me**
 
+Software Engineering | AI Developer | Python • FastAPI • LLM Applications • Open Source Contributor
+
 I love working on innovative projects and exploring new ideas.
 
 * I enjoy solving puzzles and challenging problems
