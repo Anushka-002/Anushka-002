@@ -41,8 +41,14 @@ I love working on innovative projects and exploring new ideas.
 > Python
 > HTML
 > CSS
-> JavaScript
-> machine learning, deep learning, cv, LLm
+> JavaScript / react
+> machine learning
+> deep learning
+> Computer vision
+> Natural language processing ( nlp)
+> LLM
+> Generative ai
+> Agentic ai
 
 ---
 
@@ -51,8 +57,9 @@ I love working on innovative projects and exploring new ideas.
 > Git
 > GitHub
 > vscode
-> google colab
+> Google Colab
 > jira
+> Kaggle
 
 ---
 
@@ -62,18 +69,19 @@ I love working on innovative projects and exploring new ideas.
 > Problem Solving
 > Algorithmic Thinking
 > Innovative ideas
+> problem solving skills
 
 ---
 
 🔭 **Currently Working On**
 
-Research around **AI-powered smart water distribution** and solving algorithmic problems.
+Improving everyday
 
 ---
 
 🌱 **Currently Learning**
 
-* Artificial Intelligence applications
+* Artificial Intelligence applications deployment in real world
 * Advanced Data Structures
 * Research-based problem solving
 
