@@ -10,7 +10,7 @@ Myself **Anushka**
 
 ✨ **About Me**
 
-Software Engineering | AI Developer | Python • FastAPI • LLM Applications • Open Source Contributor
+Software Engineering | AI Developer | Open Source Contributor
 
 I love working on innovative projects and exploring new ideas.
 
@@ -43,25 +43,6 @@ Programming Languages
 • JavaScript
 • HTML
 • CSS
-
-Software Engineering
-• Data Structures & Algorithms
-• Object-Oriented Programming (OOP)
-• REST APIs
-• Git
-• GitHub
-• Agile Development
-
-AI & Machine Learning
-• Machine Learning
-• Deep Learning
-• Computer Vision
-• Natural Language Processing (NLP)
-• Large Language Models (LLMs)
-• Generative AI
-• Agentic AI
-
-Frameworks & Libraries
 • React
 • TensorFlow
 • OpenCV
@@ -69,27 +50,44 @@ Frameworks & Libraries
 • Pandas
 • NumPy
 
+Software Engineering
+• Data Structures & Algorithms
+• Object-Oriented Programming (OOP)
+• REST APIs
+• Git
+• GitHub
+
+AI & Machine Learning
+• Machine Learning: regression, classification, XGBOOST, etc
+• Deep Learning: 
+• Computer Vision
+• Natural Language Processing (NLP)
+• Large Language Models (LLMs): LSTM, GRU, Tokenization
+• Generative AI with ML, diffusion model, creative
+• Agentic AI
+
 Developer Tools
 • VS Code
-• Google Colab
+• Google Colab,jupyter,notebook
 • Kaggle
 • Jira
+calude api as well as google gemini api
+
 
 ---
 
 ### Concepts
 
-> Data Structures & Algorithms
+> Data Structures & Algorithms (till heaps almost towards greedy)
 > Problem Solving
 > Algorithmic Thinking
 > Innovative ideas
-> problem solving skills
 
 ---
 
 🔭 **Currently Working On**
 
-Improving everyday
+Improving everyday +1;
 
 ---
 
@@ -97,7 +95,16 @@ Improving everyday
 
 * Artificial Intelligence applications deployment in real world
 * Advanced Data Structures
-* Research-based problem solving
+
+**Research paper Experience**
+Wrote a research paper on a water pipeline issue
+
+**Certification** 
+> Deep Learning.ai( courser)
+> protocol to protocol
+> enterpeneurship(skill based)
+> programming with Gen ai ( nptel)
+> innovation in bussiness ( nptel) etc ..
 
 ---
 
