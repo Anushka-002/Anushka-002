@@ -23,8 +23,6 @@ I love working on innovative projects and exploring new ideas.
 
 📊 **GitHub Stats**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anushka-002\&show_icons=true\&theme=radical)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Anushka-002\&theme=radical)](https://git.io/streak-stats)
 
 ---
