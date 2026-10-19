@@ -49,20 +49,20 @@ Programming Languages
 • NumPy
 
 Software Engineering
-• Data Structures & Algorithms
-• Object-Oriented Programming (OOP)
-• REST APIs
-• Git
-• GitHub
+> Data Structures & Algorithms
+| Object-Oriented Programming (OOP)
+| REST APIs
+| Git
+| GitHub
 
 AI & Machine Learning
-• Machine Learning: regression, classification, XGBOOST, etc
-• Deep Learning: 
-• Computer Vision
-• Natural Language Processing (NLP)
-• Large Language Models (LLMs): LSTM, GRU, Tokenization
-• Generative AI with ML, diffusion model, creative
-• Agentic AI
+| Machine Learning: regression, classification, XGBOOST, etc
+| Deep Learning: 
+| Computer Vision
+| Natural Language Processing (NLP)
+| Large Language Models (LLMs): LSTM, GRU, Tokenization
+| Generative AI with ML, diffusion model, creative
+| Agentic AI
 
 Developer Tools
 > VS Code
