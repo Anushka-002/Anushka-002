@@ -65,11 +65,11 @@ AI & Machine Learning
 • Agentic AI
 
 Developer Tools
-• VS Code
-• Google Colab,jupyter,notebook
-• Kaggle
-• Jira
-calude api as well as google gemini api
+> VS Code
+> Google Colab,jupyter,notebook
+> Kaggle
+> Jira
+> claude api || google gemini api || OpenCv 
 
 
 ---
@@ -101,8 +101,8 @@ Wrote a research paper on a water pipeline issue
 > Deep Learning.ai( courser)
 > protocol to protocol
 > enterpeneurship(skill based)
-> programming with Gen ai ( nptel)
-> innovation in bussiness ( nptel) etc ..
+> Programming with Gen ai (NPTEL)
+> innovation in business ( nptel) etc ..
 
 ---
 
